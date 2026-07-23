@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on MERN Stack<br>I'm currently Learning Data Analysis and DevOps any guidance appriciated<br>Also doing football player and team analysis <br>Ex- professional Football Player (Rajasthan | India )<br>
+Software Developer<br>Ex- professional Football Player (Rajasthan | India )<br>
 
 
 ## 🌐 Socials:
